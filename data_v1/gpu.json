@@ -1,0 +1,832 @@
+[
+  {
+    "title": "Carte Graphique AXLE Nvidia GeForce GT610 2Go DDR3",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "AXLE",
+      "type": "DDR3",
+      "capacity": "2Go",
+      "connectors": "N/A"
+    },
+    "price": "149,000 TND",
+    "inventory": 11,
+    "slug": "carte-graphique-axle-nvidia-geforce-gt610-2go-ddr3",
+    "last_update": "2020-09-01 06:56:21",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/i/m/image0_42.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/i/m/image0_42.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/i/m/image0_42.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/i/m/img-20211126-wa0001_18.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/i/m/img-20211126-wa0001_18.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/i/m/img-20211126-wa0001_18.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique AFOX GeForce 2Go GT610 DDR3 (AF610-2048D3L5)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "AFOX",
+      "type": "DDR3",
+      "capacity": "2Go",
+      "connectors": "1 x VGA, 1 x DVI-I dual link, 1 x HDMI, PCIe x 16"
+    },
+    "price": "151,900 TND",
+    "inventory": 19,
+    "slug": "carte-graphique-afox-geforce-2go-gt610-ddr3-af610-2048d3l5-",
+    "last_update": "2013-03-26 03:00:15",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/4/_/4_1220.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/4/_/4_1220.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/4/_/4_1220.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique ASUS Nvidia GeForce 2G GT710 DDR5 (90YV0AL1-MONA00)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "ASUS",
+      "type": "DDR5",
+      "capacity": "2Go",
+      "connectors": "N/A"
+    },
+    "price": "175,000 TND",
+    "inventory": 2,
+    "slug": "carte-graphique-asus-nvidia-geforce-2g-gt710-ddr5-90yv0al1-mona00-",
+    "last_update": "2012-07-14 23:48:27",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/9/0/90yv0al1-mona00.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/9/0/90yv0al1-mona00.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/9/0/90yv0al1-mona00.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/9/0/90yv0al1-mona00-2.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/9/0/90yv0al1-mona00-2.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/9/0/90yv0al1-mona00-2.jpg"
+      },
+      "image3": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/9/0/90yv0al1-mona00-3.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/9/0/90yv0al1-mona00-3.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/9/0/90yv0al1-mona00-3.jpg"
+      },
+      "image4": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/9/0/90yv0al1-mona00-4.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/9/0/90yv0al1-mona00-4.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/9/0/90yv0al1-mona00-4.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique ASUS Nvidia GeForce 2G GT710 DDR5 LP BRK D5 (90YV0AL3-MONA00)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "ASUS",
+      "type": "DDR3",
+      "capacity": "2Go",
+      "connectors": "1x VGA, 1x DVI, 1x HDMI 1.4"
+    },
+    "price": "175,000 TND",
+    "inventory": 17,
+    "slug": "carte-graphique-asus-nvidia-geforce-2g-gt710-ddr5-lp-brk-d5-90yv0al3-mona00-",
+    "last_update": "2018-03-13 12:28:37",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/9/0/90yv0al1-mona00-4_1.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/9/0/90yv0al1-mona00-4_1.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/9/0/90yv0al1-mona00-4_1.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/9/0/90yv0al1-mona00-3_1.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/9/0/90yv0al1-mona00-3_1.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/9/0/90yv0al1-mona00-3_1.jpg"
+      },
+      "image3": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/9/0/90yv0al1-mona00_1.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/9/0/90yv0al1-mona00_1.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/9/0/90yv0al1-mona00_1.jpg"
+      },
+      "image4": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/9/0/90yv0al3-mona00.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/9/0/90yv0al3-mona00.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/9/0/90yv0al3-mona00.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique GALAX GT710 2Go DDR3",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "GALAX",
+      "type": "DDR3",
+      "capacity": "2Go",
+      "connectors": " 1x DVI-D double liaison, 1x HDMI, 1x VGA"
+    },
+    "price": "179,000 TND",
+    "inventory": 16,
+    "slug": "carte-graphique-galax-gt710-2go-ddr3",
+    "last_update": "2013-03-26 21:22:43",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/g/t/gt710.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/g/t/gt710.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/g/t/gt710.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique MSI Nvidia GeForce GT 730 2GD3H (912-V809-3861) ",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "MSI",
+      "type": "GDDR3",
+      "capacity": "2Go",
+      "connectors": "1x HDMI, 1x DVI-D, 1 x VGA, PCI Express 2.0"
+    },
+    "price": "279,000 TND",
+    "inventory": 18,
+    "slug": "carte-graphique-msi-nvidia-geforce-gt-730-2gd3h-912-v809-3861-",
+    "last_update": "2018-01-08 04:02:08",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/4/_/4_1515.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/4/_/4_1515.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/4/_/4_1515.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer PNY GeForce GT 1030 2Go (VCG10302D4SFPPB)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "PNY",
+      "type": "GDDR4",
+      "capacity": "2Go",
+      "connectors": "HDMI 2.0b, DL-DVI"
+    },
+    "price": "349,000 TND",
+    "inventory": 9,
+    "slug": "carte-graphique-gamer-pny-geforce-gt-1030-2go-vcg10302d4sfppb-",
+    "last_update": "2017-09-08 14:25:39",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-ferrari---copie_330.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-ferrari---copie_330.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-ferrari---copie_330.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-lambarg---copie_171.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-lambarg---copie_171.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-lambarg---copie_171.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique MSI Nvidia GeForce GT1030 AERO ITX 2GD4 OC (912-V809-3818)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "MSI",
+      "type": "DDR4",
+      "capacity": "2Go",
+      "connectors": "1 x HDMI, 1 x DVI"
+    },
+    "price": "359,000 TND",
+    "inventory": 12,
+    "slug": "carte-graphique-msi-nvidia-geforce-gt1030-aero-itx-2gd4-oc-912-v809-3818-",
+    "last_update": "2014-04-02 04:54:34",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/4/_/4_1314.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/4/_/4_1314.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/4/_/4_1314.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique MSI Nvidia GeForce GT1030 2G HD4 LP OC (912-V809-3817)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "MSI",
+      "type": "DDR4",
+      "capacity": "2Go",
+      "connectors": "1 x DisplayPort, 1 x HDMI "
+    },
+    "price": "359,000 TND",
+    "inventory": 16,
+    "slug": "carte-graphique-msi-nvidia-geforce-gt1030-2g-hd4-lp-oc-912-v809-3817-",
+    "last_update": "2014-07-04 23:37:04",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/4/_/4_1315.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/4/_/4_1315.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/4/_/4_1315.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer AXLE Radeon RX 550 4Go (AX-RX550-4GD5P8DIP) ",
+    "description": {
+      "name": "AMD Radeon",
+      "brand": "AXLE",
+      "type": "DDR5",
+      "capacity": "4Go",
+      "connectors": "DP, DVI-D, HDMI"
+    },
+    "price": "499,000 TND",
+    "inventory": 4,
+    "slug": "carte-graphique-gamer-axle-radeon-rx-550-4go-ax-rx550-4gd5p8dip-",
+    "last_update": "2021-01-26 12:39:45",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/4/_/4_1310.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/4/_/4_1310.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/4/_/4_1310.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer PALIT GeForce GTX 1650 Gaming Pro 4Go (NE6165001BG1-1175A)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "PALIT",
+      "type": "GDDR6",
+      "capacity": "4Go",
+      "connectors": "1 x HDMI, 2 x DisplayPort"
+    },
+    "price": "899,000 TND",
+    "inventory": 2,
+    "slug": "carte-graphique-gamer-palit-geforce-gtx-1650-gaming-pro-4go-ne6165001bg1-1175a-",
+    "last_update": "2014-03-19 13:38:13",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-ferrari---copie_318.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-ferrari---copie_318.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-ferrari---copie_318.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-lambarg---copie_160.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-lambarg---copie_160.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-lambarg---copie_160.jpg"
+      },
+      "image3": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/h/k/hk12-frozen_85.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/h/k/hk12-frozen_85.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/h/k/hk12-frozen_85.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer PNY GeForce GTX 1660 6Go XLR8 Overclocked (VCG16606SFPPB)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "PNY",
+      "type": "GDDR5",
+      "capacity": "6Go",
+      "connectors": "1x DisplayPort 1.4, 1x HDMI 2.0b, 1x DVI-D"
+    },
+    "price": "1 499,000 TND",
+    "inventory": 1,
+    "slug": "carte-graphique-gamer-pny-geforce-gtx-1660-6go-xlr8-overclocked-vcg16606sfppb-",
+    "last_update": "2017-11-24 17:26:59",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/v/c/vcg16606sfppb-1.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/v/c/vcg16606sfppb-1.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/v/c/vcg16606sfppb-1.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/v/c/vcg16606sfppb.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/v/c/vcg16606sfppb.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/v/c/vcg16606sfppb.jpg"
+      },
+      "image3": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/v/c/vcg16606sfppb-2.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/v/c/vcg16606sfppb-2.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/v/c/vcg16606sfppb-2.jpg"
+      },
+      "image4": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/v/c/vcg16606sfppb-3.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/v/c/vcg16606sfppb-3.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/v/c/vcg16606sfppb-3.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer PALIT GeForce GTX 1660 Dual 6Go (NE51660018J9-1161C)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "PALIT",
+      "type": "GDDR5",
+      "capacity": "6Go",
+      "connectors": "1 x HDMI, 1 x DP1.4a, 1 x Dual-Link DVI-D"
+    },
+    "price": "1 659,000 TND",
+    "inventory": 15,
+    "slug": "carte-graphique-gamer-palit-geforce-gtx-1660-dual-6go-ne51660018j9-1161c-",
+    "last_update": "2015-06-25 21:23:33",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-ferrari---copie_319.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-ferrari---copie_319.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-ferrari---copie_319.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-lambarg---copie_161.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-lambarg---copie_161.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-lambarg---copie_161.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer ZOTAC GeForce RTX 2060 6Go (9288-1N527-201Z8)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "ZOTAC",
+      "type": "GDDR6",
+      "capacity": "6Go",
+      "connectors": "N/A"
+    },
+    "price": "1 909,000 TND",
+    "inventory": 12,
+    "slug": "carte-graphique-gamer-zotac-geforce-rtx-2060-6go-9288-1n527-201z8-",
+    "last_update": "2020-07-10 09:20:19",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-ferrari---copie_322.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-ferrari---copie_322.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-ferrari---copie_322.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique MSI Nvidia GeForce GTX 1660Ti Ventus + Carte Mère ASUS PRIME B560M-K",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "MSI",
+      "type": "GDDR6",
+      "capacity": "6Go",
+      "connectors": "3 x DisplayPort, 1 x HDMI 2.0b"
+    },
+    "price": "1 989,000 TND",
+    "inventory": 15,
+    "slug": "carte-graphique-msi-nvidia-geforce-gtx-1660ti-ventus-carte-m-re-asus-prime-b560m-k",
+    "last_update": "2017-09-12 04:42:57",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/i/m/image0_12.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/i/m/image0_12.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/i/m/image0_12.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer MSI GeForce RTX 3060 GAMING X 12Go",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "MSI",
+      "type": "GDDR6X",
+      "capacity": "12Go",
+      "connectors": "1 x HDMI , 3 x DisplayPort"
+    },
+    "price": "1 999,000 TND",
+    "inventory": 12,
+    "slug": "carte-graphique-gamer-msi-geforce-rtx-3060-gaming-x-12go",
+    "last_update": "2016-11-06 14:03:25",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/h/k/hk12-frozen_147.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/h/k/hk12-frozen_147.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/h/k/hk12-frozen_147.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/h/k/hk12-hellokitty_47.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/h/k/hk12-hellokitty_47.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/h/k/hk12-hellokitty_47.jpg"
+      },
+      "image3": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/i/m/image0_228.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/i/m/image0_228.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/i/m/image0_228.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer PALIT GeForce RTX 3060 Dual 12Go (NE63060019K9-190AD)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "PALIT",
+      "type": "GDDR6",
+      "capacity": "12Go",
+      "connectors": "1 x HDMI, 3 x DP1.4a"
+    },
+    "price": "2 059,000 TND",
+    "inventory": 14,
+    "slug": "carte-graphique-gamer-palit-geforce-rtx-3060-dual-12go-ne63060019k9-190ad-",
+    "last_update": "2013-09-20 10:49:12",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-ferrari---copie_320.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-ferrari---copie_320.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-ferrari---copie_320.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-lambarg---copie_162.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-lambarg---copie_162.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-lambarg---copie_162.jpg"
+      },
+      "image3": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/h/k/hk12-frozen_86.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/h/k/hk12-frozen_86.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/h/k/hk12-frozen_86.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer ASUS RADEON RX 6600 XT DUAL 8G OC",
+    "description": {
+      "name": "AMD Radeon",
+      "brand": "ASUS",
+      "type": "GDDR6",
+      "capacity": "8Go",
+      "connectors": "1 x HDMI Femelle , 3 x DisplayPort Femelle"
+    },
+    "price": "2 079,000 TND",
+    "inventory": 5,
+    "slug": "carte-graphique-gamer-asus-radeon-rx-6600-xt-dual-8g-oc",
+    "last_update": "2015-12-28 22:02:24",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/h/k/hk12-frozen_144.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/h/k/hk12-frozen_144.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/h/k/hk12-frozen_144.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/h/k/hk12-hellokitty_44.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/h/k/hk12-hellokitty_44.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/h/k/hk12-hellokitty_44.jpg"
+      },
+      "image3": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/i/m/image0_225.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/i/m/image0_225.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/i/m/image0_225.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer ZOTAC GeForce RTX 3060 Twin Edge 12Go OC (9288-7N630-501Z8)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "ZOTAC",
+      "type": "GDDR6",
+      "capacity": "12Go",
+      "connectors": "1 x HDMI 2.1, 3 x DisplayPort 1.4a"
+    },
+    "price": "2 219,000 TND",
+    "inventory": 5,
+    "slug": "carte-graphique-gamer-zotac-geforce-rtx-3060-twin-edge-12go-oc-9288-7n630-501z8-",
+    "last_update": "2016-07-08 22:05:09",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-ferrari---copie_323.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-ferrari---copie_323.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-ferrari---copie_323.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-lambarg---copie_164.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-lambarg---copie_164.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-lambarg---copie_164.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer ZOTAC GeForce RTX 3060Ti 8Go AMP Édition Blanche LHR",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "ZOTAC",
+      "type": "GDDR6",
+      "capacity": "8Go",
+      "connectors": "1 x HDMI 2.1, 3 x DisplayPort 1.4a"
+    },
+    "price": "2 699,000 TND",
+    "inventory": 2,
+    "slug": "carte-graphique-gamer-zotac-geforce-rtx-3060ti-8go-amp-dition-blanche-lhr",
+    "last_update": "2019-03-02 12:28:23",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/h/k/hk12-frozen_145.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/h/k/hk12-frozen_145.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/h/k/hk12-frozen_145.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/h/k/hk12-hellokitty_45.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/h/k/hk12-hellokitty_45.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/h/k/hk12-hellokitty_45.jpg"
+      },
+      "image3": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/i/m/image0_226.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/i/m/image0_226.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/i/m/image0_226.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer PALIT GeForce RTX 3070 GameRock 8Go (NE63070019P2-1040G)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "PALIT",
+      "type": "GDDR6",
+      "capacity": "8Go",
+      "connectors": "1 x HDMI, 3 x DP1.4a"
+    },
+    "price": "2 879,000 TND",
+    "inventory": 17,
+    "slug": "carte-graphique-gamer-palit-geforce-rtx-3070-gamerock-8go-ne63070019p2-1040g-",
+    "last_update": "2013-03-25 18:48:54",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-ferrari---copie_321.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-ferrari---copie_321.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-ferrari---copie_321.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-lambarg---copie_163.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-lambarg---copie_163.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-lambarg---copie_163.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer MSI RADEON RX 6700 XT MECH 2X 12G OC",
+    "description": {
+      "name": "AMD Radeon",
+      "brand": "MSI",
+      "type": "GDDR6",
+      "capacity": "12Go",
+      "connectors": " 1 x HDMI Femelle, 3 x DisplayPort Femelle"
+    },
+    "price": "2 899,000 TND",
+    "inventory": 8,
+    "slug": "carte-graphique-gamer-msi-radeon-rx-6700-xt-mech-2x-12g-oc",
+    "last_update": "2015-05-10 01:04:02",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/h/k/hk12-frozen_146.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/h/k/hk12-frozen_146.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/h/k/hk12-frozen_146.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/h/k/hk12-hellokitty_46.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/h/k/hk12-hellokitty_46.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/h/k/hk12-hellokitty_46.jpg"
+      },
+      "image3": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/i/m/image0_227.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/i/m/image0_227.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/i/m/image0_227.jpg"
+      },
+      "image4": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/i/m/img-20211126-wa0001_92.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/i/m/img-20211126-wa0001_92.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/i/m/img-20211126-wa0001_92.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer ZOTAC GeForce RTX 3070 Twin Edge 8Go OC White Edition LHR ",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "ZOTAC",
+      "type": "GDDR6",
+      "capacity": "8Go",
+      "connectors": "1 x HDMI 2.1, 3 x DisplayPort 1.4a"
+    },
+    "price": "3 139,000 TND",
+    "inventory": 3,
+    "slug": "carte-graphique-gamer-zotac-geforce-rtx-3070-twin-edge-8go-oc-white-edition-lhr-",
+    "last_update": "2014-04-20 07:52:53",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-ferrari---copie_325.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-ferrari---copie_325.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-ferrari---copie_325.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-lambarg---copie_166.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-lambarg---copie_166.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-lambarg---copie_166.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer TUF ASUS GeForce RTX 3070 8Go Gaming OC V2 (90YV0FQI-M0NA00)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "ASUS",
+      "type": "GDDR6",
+      "capacity": "8Go",
+      "connectors": "2 x HDMI, 3 x DisplayPort"
+    },
+    "price": "3 199,000 TND",
+    "inventory": 5,
+    "slug": "carte-graphique-gamer-tuf-asus-geforce-rtx-3070-8go-gaming-oc-v2-90yv0fqi-m0na00-",
+    "last_update": "2013-03-24 19:46:51",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-ferrari---copie_326.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-ferrari---copie_326.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-ferrari---copie_326.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-lambarg---copie_167.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-lambarg---copie_167.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-lambarg---copie_167.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer ASUS ROG STRIX GeForce RTX 3070 8Go OC Gaming V2",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "ASUS",
+      "type": "GDDR6",
+      "capacity": "8Go",
+      "connectors": "2 x HDMI, 3 x DisplayPort"
+    },
+    "price": "3 389,000 TND",
+    "inventory": 17,
+    "slug": "carte-graphique-gamer-asus-rog-strix-geforce-rtx-3070-8go-oc-gaming-v2",
+    "last_update": "2013-01-09 12:41:17",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-ferrari---copie_327.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-ferrari---copie_327.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-ferrari---copie_327.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-lambarg---copie_168.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-lambarg---copie_168.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-lambarg---copie_168.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer TUF ASUS GeForce RTX 3070Ti 8Go Gaming OC (90YV0GY0-M0NA00)",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "ASUS",
+      "type": "GDDR6X",
+      "capacity": "8Go",
+      "connectors": "2 x HDMI, 3 x DisplayPort"
+    },
+    "price": "3 769,000 TND",
+    "inventory": 12,
+    "slug": "carte-graphique-gamer-tuf-asus-geforce-rtx-3070ti-8go-gaming-oc-90yv0gy0-m0na00-",
+    "last_update": "2018-07-24 22:39:23",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-ferrari---copie_328.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-ferrari---copie_328.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-ferrari---copie_328.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/h/k/hk12-frozen_87.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/h/k/hk12-frozen_87.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/h/k/hk12-frozen_87.jpg"
+      },
+      "image3": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-lambarg---copie_169.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-lambarg---copie_169.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-lambarg---copie_169.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique Gamer ASUS ROG STRIX GeForce RTX 3080 10Go OC Gaming V2",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "ASUS",
+      "type": "GDDR6X",
+      "capacity": "10Go",
+      "connectors": "2 x HDMI, 3 x DisplayPort, 3 x PCI Express 8 Broches"
+    },
+    "price": "4 859,000 TND",
+    "inventory": 2,
+    "slug": "carte-graphique-gamer-asus-rog-strix-geforce-rtx-3080-10go-oc-gaming-v2",
+    "last_update": "2012-04-11 10:51:17",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-ferrari---copie_329.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-ferrari---copie_329.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-ferrari---copie_329.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/f/e/fe12-lambarg---copie_170.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/f/e/fe12-lambarg---copie_170.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/f/e/fe12-lambarg---copie_170.jpg"
+      },
+      "image3": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/h/k/hk12-frozen_88.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/h/k/hk12-frozen_88.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/h/k/hk12-frozen_88.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique MSI Gamer RTX 3080 TI Ventus 3X 12Go OC ",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "MSI",
+      "type": "GDDR6X",
+      "capacity": "12Go",
+      "connectors": "3x DisplayPort , 1x HDMI"
+    },
+    "price": "5 759,000 TND",
+    "inventory": 14,
+    "slug": "carte-graphique-msi-gamer-rtx-3080-ti-ventus-3x-12go-oc-",
+    "last_update": "2016-04-19 06:50:49",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/2/m/2mm---copie_25.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/2/m/2mm---copie_25.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/2/m/2mm---copie_25.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique MSI Gamer RTX 3080 Ti Gaming X TRIO 12Go",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "MSI",
+      "type": "GDDR6X",
+      "capacity": "12Go",
+      "connectors": "3x DisplayPort, 1x HDMI"
+    },
+    "price": "5 999,000 TND",
+    "inventory": 7,
+    "slug": "carte-graphique-msi-gamer-rtx-3080-ti-gaming-x-trio-12go",
+    "last_update": "2020-01-05 20:22:27",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/2/m/2mm---copie_26.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/2/m/2mm---copie_26.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/2/m/2mm---copie_26.jpg"
+      }
+    }
+  },
+  {
+    "title": "Carte Graphique MSI Gamer RTX 3080 TI TRIO 12Go",
+    "description": {
+      "name": "Nvidia GeForce",
+      "brand": "MSI",
+      "type": "GDDR6X",
+      "capacity": "12Go",
+      "connectors": "3x DisplayPort , 1x HDMI"
+    },
+    "price": "5 999,000 TND",
+    "inventory": 19,
+    "slug": "carte-graphique-msi-gamer-rtx-3080-ti-trio-12go",
+    "last_update": "2014-06-04 15:00:59",
+    "collection_id": 6,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/2/2/22_12.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/2/2/22_12.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/2/2/22_12.jpg"
+      }
+    }
+  }
+]

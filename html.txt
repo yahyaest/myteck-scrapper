@@ -1,0 +1,10 @@
+*********collection_id**********
+1: pc
+2: pcGamer
+3: laptop
+4: monitor
+5: cpu
+6: gpu
+7: ram
+8: hdd
+9: ssd

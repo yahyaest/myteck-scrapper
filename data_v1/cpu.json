@@ -1,0 +1,527 @@
+[
+  {
+    "title": "Processeur Intel Core i3-7100 Socket Intel LGA 1151",
+    "description": {
+      "name": "Intel Core i3",
+      "brand": "INTEL",
+      "reference": "i3-7100",
+      "frequency": "3.9 GHz",
+      "speed": "1600 MHz",
+      "memory": "3 Mo",
+      "type": "DDR4",
+      "cores": "Dual Core"
+    },
+    "price": "399,000 TND",
+    "inventory": 59,
+    "slug": "processeur-intel-core-i3-7100-socket-intel-lga-1151",
+    "last_update": "2016-05-22 17:04:54",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/b/x/bx80677i37100_1.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/b/x/bx80677i37100_1.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/b/x/bx80677i37100_1.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/b/x/bx80677i37100-1_1.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/b/x/bx80677i37100-1_1.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/b/x/bx80677i37100-1_1.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur Intel Core i5-9400F (2.9 GHz / 4.1 GHz)",
+    "description": {
+      "name": "Intel Core i5",
+      "brand": "INTEL",
+      "reference": "i5-9400F",
+      "frequency": "2.9 GHz to 4.1 GHz",
+      "speed": "N/A",
+      "memory": "9 Mo",
+      "type": "DDR4",
+      "cores": "Hexa Core"
+    },
+    "price": "529,000 TND",
+    "inventory": 26,
+    "slug": "processeur-intel-core-i5-9400f-2-9-ghz-4-1-ghz-",
+    "last_update": "2015-11-06 06:32:24",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/b/x/bx80684i59400f.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/b/x/bx80684i59400f.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/b/x/bx80684i59400f.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur AMD Ryzen 5 2600X Wraith Spire",
+    "description": {
+      "name": "AMD Ryzen",
+      "brand": "AMD",
+      "reference": "N/A",
+      "frequency": " 3.6 GHz to 4.2 GHz",
+      "speed": "N/A",
+      "memory": "16 Mo",
+      "type": "DDR4",
+      "cores": "Hexa Core"
+    },
+    "price": "659,000 TND",
+    "inventory": 7,
+    "slug": "processeur-amd-ryzen-5-2600x-wraith-spire",
+    "last_update": "2015-03-29 22:15:32",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/y/d/yd260xbcafbox_1.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/y/d/yd260xbcafbox_1.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/y/d/yd260xbcafbox_1.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/y/d/yd260xbcafbox-1_1.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/y/d/yd260xbcafbox-1_1.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/y/d/yd260xbcafbox-1_1.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur AMD Ryzen 7 2700 - YD2700BBAFBOX",
+    "description": {
+      "name": "AMD Ryzen",
+      "brand": "AMD",
+      "reference": "AMD RYZEN 7 2700",
+      "frequency": "3.2 GHz to 4.1 GHz",
+      "speed": "N/A",
+      "memory": "16 Mo",
+      "type": "DDR4",
+      "cores": "Octa Core"
+    },
+    "price": "659,000 TND",
+    "inventory": 44,
+    "slug": "processeur-amd-ryzen-7-2700---yd2700bbafbox",
+    "last_update": "2020-04-20 11:35:15",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/y/d/yd2700bbafbox_4.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/y/d/yd2700bbafbox_4.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/y/d/yd2700bbafbox_4.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur Intel Core i5-9600KF Socket Intel LGA 1151",
+    "description": {
+      "name": "Intel Core i5",
+      "brand": "INTEL",
+      "reference": " i5-9600KF",
+      "frequency": " 3.7 GHz to 4.6 GHz ",
+      "speed": "2666 MHz",
+      "memory": "9 Mo",
+      "type": "DDR4",
+      "cores": "Hexa Core"
+    },
+    "price": "769,000 TND",
+    "inventory": 81,
+    "slug": "processeur-intel-core-i5-9600kf-socket-intel-lga-1151",
+    "last_update": "2021-05-21 20:33:43",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/b/x/bx80684i59600kf.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/b/x/bx80684i59600kf.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/b/x/bx80684i59600kf.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur AMD Ryzen 7 2700X (YD270XBGM88AF)",
+    "description": {
+      "name": "AMD Ryzen",
+      "brand": "AMD",
+      "reference": "N/A",
+      "frequency": "3.7 GHz to 4.3 GHz",
+      "speed": "N/A",
+      "memory": "16 Mo",
+      "type": "DDR4",
+      "cores": "Octa Core"
+    },
+    "price": "819,000 TND",
+    "inventory": 13,
+    "slug": "processeur-amd-ryzen-7-2700x-yd270xbgm88af-",
+    "last_update": "2019-07-10 12:19:37",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/8/9/89800_zknta5rmtla0lc5v.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/8/9/89800_zknta5rmtla0lc5v.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/8/9/89800_zknta5rmtla0lc5v.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur AMD Ryzen 7 1700 Wraith Spire ",
+    "description": {
+      "name": "AMD Ryzen",
+      "brand": "AMD",
+      "reference": "N/A",
+      "frequency": "3.0 GHz to 3.7 GHz ",
+      "speed": "N/A",
+      "memory": "20 Mo",
+      "type": "DDR4",
+      "cores": "Octa Core"
+    },
+    "price": "929,000 TND",
+    "inventory": 24,
+    "slug": "processeur-amd-ryzen-7-1700-wraith-spire-",
+    "last_update": "2014-01-01 13:36:09",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/r/a/razen-1700.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/r/a/razen-1700.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/r/a/razen-1700.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur Intel Core i7-9700F Socket Intel LGA 1151",
+    "description": {
+      "name": "Intel Core i7",
+      "brand": "INTEL",
+      "reference": "i7-9700F",
+      "frequency": "3.0 to 4.7 GHz",
+      "speed": "2666 MHz",
+      "memory": "12 Mo",
+      "type": "DDR4",
+      "cores": "Octa Core"
+    },
+    "price": "1 269,000 TND",
+    "inventory": 75,
+    "slug": "processeur-intel-core-i7-9700f-socket-intel-lga-1151",
+    "last_update": "2014-12-15 11:27:52",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/b/x/bx80684i79700f.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/b/x/bx80684i79700f.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/b/x/bx80684i79700f.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur Intel Core i7-9700 Socket Intel LGA 1151",
+    "description": {
+      "name": "Intel Core i7",
+      "brand": "INTEL",
+      "reference": "i7-9700",
+      "frequency": "3.0 GHZ to 4.7 GHz",
+      "speed": "2666 MHz",
+      "memory": "12 Mo",
+      "type": "DDR4",
+      "cores": "Octa Core"
+    },
+    "price": "1 349,000 TND",
+    "inventory": 87,
+    "slug": "processeur-intel-core-i7-9700-socket-intel-lga-1151",
+    "last_update": "2016-07-29 22:26:36",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/b/x/bx80684i79700.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/b/x/bx80684i79700.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/b/x/bx80684i79700.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur AMD RAYZEN 5 BOX 5600X",
+    "description": {
+      "name": "AMD Ryzen 5",
+      "brand": "AMD",
+      "reference": "Processeurs de bureau AMD Ryzen™ 5",
+      "frequency": "3.7GHz",
+      "speed": "N/A",
+      "memory": "N/A",
+      "type": "DDR4",
+      "cores": "Hexa Core"
+    },
+    "price": "1 359,000 TND",
+    "inventory": 32,
+    "slug": "processeur-amd-rayzen-5-box-5600x",
+    "last_update": "2015-03-03 05:16:26",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/r/y/ryzen-5-5600x.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/r/y/ryzen-5-5600x.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/r/y/ryzen-5-5600x.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/r/a/rayzen-5-5600x-2.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/r/a/rayzen-5-5600x-2.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/r/a/rayzen-5-5600x-2.jpg"
+      },
+      "image3": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/r/a/rayzen-5-5600x.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/r/a/rayzen-5-5600x.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/r/a/rayzen-5-5600x.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur LENOVO Intel Xeon E5-2603 V3 Pour Serveur (81Y7113)",
+    "description": {
+      "name": "Intel Xeon",
+      "brand": "LENOVO",
+      "reference": "N/A",
+      "frequency": "1.6 GHz",
+      "speed": "N/A",
+      "memory": "15 Mo",
+      "type": "N/A",
+      "cores": "Hexa Core"
+    },
+    "price": "1 439,000 TND",
+    "inventory": 46,
+    "slug": "processeur-lenovo-intel-xeon-e5-2603-v3-pour-serveur-81y7113-",
+    "last_update": "2020-01-30 05:53:23",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/8/1/81y7113.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/8/1/81y7113.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/8/1/81y7113.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur Intel Core i7-9700K Socket Intel LGA 1151",
+    "description": {
+      "name": "Intel Core i7",
+      "brand": "INTEL",
+      "reference": "Intel Core i7-9700K",
+      "frequency": "3.6 GHz to 4.9 GHz",
+      "speed": "2666 MHz",
+      "memory": "12 Mo",
+      "type": "DDR4",
+      "cores": "Octa Core"
+    },
+    "price": "1 499,000 TND",
+    "inventory": 25,
+    "slug": "processeur-intel-core-i7-9700k-socket-intel-lga-1151",
+    "last_update": "2019-04-22 14:13:22",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/b/x/bx80684i79700k.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/b/x/bx80684i79700k.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/b/x/bx80684i79700k.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur Intel Xeon E5-2620 V4 (OOYJ195)",
+    "description": {
+      "name": "Intel Xeon",
+      "brand": "INTEL",
+      "reference": " Intel Xeon E5-2620 V4 ",
+      "frequency": "2,1 GHz to 3 GHz",
+      "speed": "2133 MHz",
+      "memory": "20 Mo",
+      "type": "DDR4",
+      "cores": "Octa Core"
+    },
+    "price": "1 679,000 TND",
+    "inventory": 38,
+    "slug": "processeur-intel-xeon-e5-2620-v4-ooyj195-",
+    "last_update": "2013-05-15 17:26:25",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/o/o/ooyj195.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/o/o/ooyj195.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/o/o/ooyj195.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur AMD Ryzen 9 3900X (100-100000023BOX)",
+    "description": {
+      "name": "Processeur AMD Ryzen 9 3900X (100-100000023BOX)",
+      "brand": "AMD",
+      "reference": "AMD RYZEN 9 3900X",
+      "frequency": " 3.8 GHz to 4.6 GHz",
+      "speed": "N/A",
+      "memory": "64 Mo",
+      "type": "DDR4",
+      "cores": "12 coeurs"
+    },
+    "price": "1 739,000 TND",
+    "inventory": 87,
+    "slug": "processeur-amd-ryzen-9-3900x-100-100000023box-",
+    "last_update": "2012-05-15 00:18:32",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/1/0/100-100000023box.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/1/0/100-100000023box.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/1/0/100-100000023box.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur Intel Core i9-9900K (3.6 GHz / 5.0 GHz) ",
+    "description": {
+      "name": "Intel Core i9",
+      "brand": "INTEL",
+      "reference": "Intel Core i9-9900K",
+      "frequency": "3.6 GHz to 5.0 GHz",
+      "speed": "2666 MHz",
+      "memory": "16 Mo",
+      "type": "DDR4",
+      "cores": "Octa Core"
+    },
+    "price": "2 269,000 TND",
+    "inventory": 94,
+    "slug": "processeur-intel-core-i9-9900k-3-6-ghz-5-0-ghz-",
+    "last_update": "2016-08-04 00:25:54",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/b/x/bx80684i99900k.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/b/x/bx80684i99900k.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/b/x/bx80684i99900k.jpg"
+      },
+      "image2": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/b/x/bx80684i99900k-1.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/b/x/bx80684i99900k-1.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/b/x/bx80684i99900k-1.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur LENOVO Intel Xeon E5-2603 V3 Pour Serveur (81Y7116)",
+    "description": {
+      "name": "Intel Xeon",
+      "brand": "LENOVO",
+      "reference": "Intel Xeon E5-2603 V3 ",
+      "frequency": "2.4 GHz",
+      "speed": "N/A",
+      "memory": "20 Mo",
+      "type": "N/A",
+      "cores": "Octa Core"
+    },
+    "price": "2 499,000 TND",
+    "inventory": 80,
+    "slug": "processeur-lenovo-intel-xeon-e5-2603-v3-pour-serveur-81y7116-",
+    "last_update": "2015-09-25 21:14:05",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/8/1/81y7116.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/8/1/81y7116.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/8/1/81y7116.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur Intel Xeon 4210 Pour Serveur HP DL380 G10 (P02492-B21)",
+    "description": {
+      "name": "Intel Xeon",
+      "brand": "INTEL",
+      "reference": "Intel Xeon S-4210 Pour Serveur",
+      "frequency": "2.2 GHz",
+      "speed": "N/A",
+      "memory": "13.75 Mo",
+      "type": "DDR4",
+      "cores": "10 coeurs"
+    },
+    "price": "2 509,000 TND",
+    "inventory": 58,
+    "slug": "processeur-intel-xeon-4210-pour-serveur-hp-dl380-g10-p02492-b21-",
+    "last_update": "2017-09-08 06:08:22",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/p/0/p02492-b21.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/p/0/p02492-b21.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/p/0/p02492-b21.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur LENOVO Intel Xeon 4110 Silver Pour Serveur (7XG7A05575)",
+    "description": {
+      "name": "Intel Xeon",
+      "brand": "LENOVO",
+      "reference": "INTEL XEON 4110",
+      "frequency": "2.1 GHz",
+      "speed": "N/A",
+      "memory": "11 Mo",
+      "type": "N/A",
+      "cores": "N/A"
+    },
+    "price": "2 609,000 TND",
+    "inventory": 72,
+    "slug": "processeur-lenovo-intel-xeon-4110-silver-pour-serveur-7xg7a05575-",
+    "last_update": "2021-02-13 14:09:35",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/5/5/55540_rcz6qvbnau1vgb0u.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/5/5/55540_rcz6qvbnau1vgb0u.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/5/5/55540_rcz6qvbnau1vgb0u.jpg"
+      }
+    }
+  },
+  {
+    "title": "Processeur Intel Xeon 4110 Silver Pour Serveur LENOVO (4XG7A07215)",
+    "description": {
+      "name": "Intel Xeon",
+      "brand": "INTEL",
+      "reference": " Intel Xeon 4110 ",
+      "frequency": "2.1 GHz",
+      "speed": "N/A",
+      "memory": "11 Mo",
+      "type": "N/A",
+      "cores": "Octa Core"
+    },
+    "price": "2 609,000 TND",
+    "inventory": 6,
+    "slug": "processeur-intel-xeon-4110-silver-pour-serveur-lenovo-4xg7a07215-",
+    "last_update": "2018-01-06 04:49:37",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/4/x/4xg7a07215-1.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/4/x/4xg7a07215-1.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/4/x/4xg7a07215-1.jpg"
+      }
+    }
+  },
+  {
+    "title": " Processeur Intel Xeon Silver 4110 Pour Serveur LENOVO (7XG7A05531)",
+    "description": {
+      "name": "Intel Xeon",
+      "brand": "INTEL",
+      "reference": "Intel Xeon Silver 4110",
+      "frequency": "2.1 GHz ",
+      "speed": "N/A",
+      "memory": "11 Mo",
+      "type": "N/A",
+      "cores": "Octa Core"
+    },
+    "price": "2 659,000 TND",
+    "inventory": 86,
+    "slug": "-processeur-intel-xeon-silver-4110-pour-serveur-lenovo-7xg7a05531-",
+    "last_update": "2016-02-29 00:46:40",
+    "collection_id": 5,
+    "images": {
+      "image1": {
+        "tiny": "https://mk-media.mytek.tn/media/catalog/product/cache/1d6dd9ddd6843de4f808d36599d87458/7/x/7xg7a05531.jpg",
+        "medium": "https://mk-media.mytek.tn/media/catalog/product/cache/8be3f98b14227a82112b46963246dfe1/7/x/7xg7a05531.jpg",
+        "large": "https://mk-media.mytek.tn/media/catalog/product/cache/0dd0561c7b0cf141e19b8655ffdc7055/7/x/7xg7a05531.jpg"
+      }
+    }
+  }
+]
