@@ -156,9 +156,9 @@ const componentPageScrapper = async (url) => {
 
           // create description object
           const descriptionObject = {};
-          descriptionObject.brand = ramBrand;
-          descriptionObject.type = ramMemoryType;
-          descriptionObject.capacity = ramCapacity;
+          descriptionObject.brand = ramBrand.replace("'", '`').replace('\"', '');
+          descriptionObject.type = ramMemoryType.replace("'", '`').replace('\"', '');
+          descriptionObject.capacity = ramCapacity.replace("'", '`').replace('\"', '');
 
           // create ram array
           const ramObject = {};

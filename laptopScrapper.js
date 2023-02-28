@@ -175,25 +175,25 @@ const componentPageScrapper = async (url) => {
 
           // create description object
           const descriptionObject = {};
-          descriptionObject.brand = laptopBrand;
-          descriptionObject.model = laptopModel;
-          descriptionObject.gamer = laptopIsGamer;
-          descriptionObject.os = laptopOs;
-          descriptionObject.processor = laptopCpu;
-          descriptionObject.processor_type = laptopCpuType;
-          descriptionObject.processor_reference = laptopCpuReference;
-          descriptionObject.processor_frequency = laptopCpuFrequency;
-          descriptionObject.processor_cache = laptopCacheMemory;
-          descriptionObject.gpu = laptopGpu;
-          descriptionObject.gpu_chipset = laptopGraphicChipset;
-          descriptionObject.memory = laptopRam;
-          descriptionObject.drive = laptopDrive;
-          descriptionObject.drive_type = laptopDriveType;
-          descriptionObject.screen = laptopScreen;
-          descriptionObject.touchscreen = laptopIsTouchScreen;
-          descriptionObject.screen_size = laptopScreenSize;
-          descriptionObject.screen_resolution = laptopScreenResolution;
-          descriptionObject.connectors = laptopConnectors;
+          descriptionObject.brand = laptopBrand.replace("'", '`').replace('\"', '');
+          descriptionObject.model = laptopModel.replace("'", '`').replace('\"', '');
+          descriptionObject.gamer = laptopIsGamer.replace("'", '`').replace('\"', '');
+          descriptionObject.os = laptopOs.replace("'", '`').replace('\"', '');
+          descriptionObject.processor = laptopCpu.replace("'", '`').replace('\"', '');
+          descriptionObject.processor_type = laptopCpuType.replace("'", '`').replace('\"', '');
+          descriptionObject.processor_reference = laptopCpuReference.replace("'", '`').replace('\"', '');
+          descriptionObject.processor_frequency = laptopCpuFrequency.replace("'", '`').replace('\"', '');
+          descriptionObject.processor_cache = laptopCacheMemory.replace("'", '`').replace('\"', '');
+          descriptionObject.gpu = laptopGpu.replace("'", '`').replace('\"', '');
+          descriptionObject.gpu_chipset = laptopGraphicChipset.replace("'", '`').replace('\"', '');
+          descriptionObject.memory = laptopRam.replace("'", '`').replace('\"', '');
+          descriptionObject.drive = laptopDrive.replace("'", '`').replace('\"', '');
+          descriptionObject.drive_type = laptopDriveType.replace("'", '`').replace('\"', '');
+          descriptionObject.screen = laptopScreen.replace("'", '`').replace('\"', '');
+          descriptionObject.touchscreen = laptopIsTouchScreen.replace("'", '`').replace('\"', '');
+          descriptionObject.screen_size = laptopScreenSize.replace("'", '`').replace('\"', '');
+          descriptionObject.screen_resolution = laptopScreenResolution.replace("'", '`').replace('\"', '');
+          descriptionObject.connectors = laptopConnectors.replace("'", '`').replace('\"', '');
           // create laptop array
           const laptopObject = {};
           laptopObject.title = laptopTitle;

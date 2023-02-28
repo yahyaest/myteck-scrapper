@@ -23,13 +23,24 @@ const getRandomProductId = () => {
   return Math.floor(Math.random() * (1019 - 1) + 1);
 };
 
-let id = 2;
+let id = 1;
+let unique_couple = [];
 //
 let seed =
   "insert into pcstore.store_product_promotions (id, product_id, promotion_id)values ";
 
-for (let index = 3; index < 1001; index++) {
-  seed = seed + `(${id}, '${getRandomProductId()}', '${getPromotionId()}'),\n`;
+for (let index = 1; index < 1823; index++) {
+  let prod_id = getRandomProductId();
+  let prom_id = getPromotionId();
+  while (unique_couple.includes(`${prod_id}-${prom_id}`)) {
+    prod_id = getRandomProductId();
+    prom_id = getPromotionId();
+  }
+
+  unique_couple.push(`${prod_id}-${prom_id}`);
+  let col = `(${id}, '${prod_id}', '${prom_id}'),\n`;
+
+  seed = seed + col;
 
   id++;
 }

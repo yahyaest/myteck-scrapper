@@ -154,12 +154,12 @@ const componentPageScrapper = async (url) => {
 
           // create description object
           const descriptionObject = {};
-          descriptionObject.brand = ssdBrand;
-          descriptionObject.state = ssdState;
-          descriptionObject.interface = ssdInterface;
-          descriptionObject.capacity = ssdCapacity;
-          descriptionObject.format = ssdFormat;
-          descriptionObject.type = ssdType;
+          descriptionObject.brand = ssdBrand.replace("'", '`').replace('\"', '');
+          descriptionObject.state = ssdState.replace("'", '`').replace('\"', '');
+          descriptionObject.interface = ssdInterface.replace("'", '`').replace('\"', '');
+          descriptionObject.capacity = ssdCapacity.replace("'", '`').replace('\"', '');
+          descriptionObject.format = ssdFormat.replace("'", '`').replace('\"', '');
+          descriptionObject.type = ssdType.replace("'", '`').replace('\"', '');
           // create ssd array
           const ssdObject = {};
           ssdObject.title = ssdTitle;

@@ -182,19 +182,19 @@ const componentPageScrapper = async (url) => {
           }
           // create description object
           const descriptionObject = {};
-          descriptionObject.brand = monitorBrand;
-          descriptionObject.curved = monitorIscurved;
-          descriptionObject.response_time = monitorResponseTime;
-          descriptionObject.adjustable_foot = monitorAdjustableFoot;
-          descriptionObject.weight = monitorWeight;
-          descriptionObject.frequency = monitorFrequency;
-          descriptionObject.constrat = monitorContrastRatio;
-          descriptionObject.brightness = monitorBrightness;
-          descriptionObject.resolution = monitorResolution;
-          descriptionObject.size = monitorSize;
-          descriptionObject.touchmonitor = monitorIsTouchmonitor;
-          descriptionObject.connectors = monitorConnectors;
-          descriptionObject.dimensions = monitorDimensions;
+          descriptionObject.brand = monitorBrand.replace("'", '`').replace('\"', '');
+          descriptionObject.curved = monitorIscurved.replace("'", '`').replace('\"', '');
+          descriptionObject.response_time = monitorResponseTime.replace("'", '`').replace('\"', '');
+          descriptionObject.adjustable_foot = monitorAdjustableFoot.replace("'", '`').replace('\"', '');
+          descriptionObject.weight = monitorWeight.replace("'", '`').replace('\"', '');
+          descriptionObject.frequency = monitorFrequency.replace("'", '`').replace('\"', '');
+          descriptionObject.constrat = monitorContrastRatio.replace("'", '`').replace('\"', '');
+          descriptionObject.brightness = monitorBrightness.replace("'", '`').replace('\"', '');
+          descriptionObject.resolution = monitorResolution.replace("'", '`').replace('\"', '');
+          descriptionObject.size = monitorSize.replace("'", '`').replace('\"', '');
+          descriptionObject.touchmonitor = monitorIsTouchmonitor.replace("'", '`').replace('\"', '');
+          descriptionObject.connectors = monitorConnectors.replace("'", '`').replace('\"', '');
+          descriptionObject.dimensions = monitorDimensions.replace("'", '`').replace('\"', '');
 
           // create monitor array
           const monitorObject = {};

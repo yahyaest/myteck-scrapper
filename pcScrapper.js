@@ -185,25 +185,25 @@ const componentPageScrapper = async (url) => {
 
           // create description object
           const descriptionObject = {};
-          descriptionObject.brand = pcBrand;
-          descriptionObject.model = pcModel;
-          descriptionObject.type = pcType;
-          descriptionObject.os = pcOs;
-          descriptionObject.processor = pcCpu;
-          descriptionObject.processor_type = pcCpuType;
-          descriptionObject.processor_reference = pcCpuReference;
-          descriptionObject.processor_frequency = pcCpuFrequency;
-          descriptionObject.processor_cache = pcCacheMemory;
-          descriptionObject.gpu = pcGpu;
-          descriptionObject.gpu_chipset = pcGraphicChipset;
-          descriptionObject.memory = pcRam;
-          descriptionObject.memory_type = pcRamType;
-          descriptionObject.drive = pcDrive;
-          descriptionObject.drive_type = pcDriveType;
-          descriptionObject.screen = pcIsScreen;
-          descriptionObject.touchscreen = pcIsTouchScreen;
-          descriptionObject.screen_size = pcScreenSize;
-          descriptionObject.connectors = pcConnectors;
+          descriptionObject.brand = pcBrand.replace("'", '`').replace('\"', '');
+          descriptionObject.model = pcModel.replace("'", '`').replace('\"', '');
+          descriptionObject.type = pcType.replace("'", '`').replace('\"', '');
+          descriptionObject.os = pcOs.replace("'", '`').replace('\"', '');
+          descriptionObject.processor = pcCpu.replace("'", '`').replace('\"', '');
+          descriptionObject.processor_type = pcCpuType.replace("'", '`').replace('\"', '');
+          descriptionObject.processor_reference = pcCpuReference.replace("'", '`').replace('\"', '');
+          descriptionObject.processor_frequency = pcCpuFrequency.replace("'", '`').replace('\"', '');
+          descriptionObject.processor_cache = pcCacheMemory.replace("'", '`').replace('\"', '');
+          descriptionObject.gpu = pcGpu.replace("'", '`').replace('\"', '');
+          descriptionObject.gpu_chipset = pcGraphicChipset.replace("'", '`').replace('\"', '');
+          descriptionObject.memory = pcRam.replace("'", '`').replace('\"', '');
+          descriptionObject.memory_type = pcRamType.replace("'", '`').replace('\"', '');
+          descriptionObject.drive = pcDrive.replace("'", '`').replace('\"', '');
+          descriptionObject.drive_type = pcDriveType.replace("'", '`').replace('\"', '');
+          descriptionObject.screen = pcIsScreen.replace("'", '`').replace('\"', '');
+          descriptionObject.touchscreen = pcIsTouchScreen.replace("'", '`').replace('\"', '');
+          descriptionObject.screen_size = pcScreenSize.replace("'", '`').replace('\"', '');
+          descriptionObject.connectors = pcConnectors.replace("'", '`').replace('\"', '');
           // create pc array
           const pcObject = {};
           pcObject.title = pcTitle;

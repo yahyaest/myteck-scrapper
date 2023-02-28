@@ -1,0 +1,21 @@
+{
+  "brand": "MSI",
+  "model": "",
+  "type": "PC de Bureau All In One",
+  "os": "FreeDos",
+  "processor": "Intel Core i5",
+  "processor_type": "12 cœurs",
+  "processor_reference": " Intel Core i5-1240P ",
+  "processor_frequency": "1.70 GHz up to 4,40 GHz Turbo max",
+  "processor_cache": "12 Mo",
+  "gpu": "Graphique Intégrée",
+  "gpu_chipset": "Intel UHD",
+  "memory": "8 Go",
+  "memory_type": "DDR4",
+  "drive": "512Go SSD",
+  "drive_type": "SSD",
+  "screen": "Full HD IPS",
+  "touchscreen": "Non",
+  "screen_size": "23.8 Pouces",
+  "connectors": "2x USB 2.0 Type A, 2x USB 3.2 Gen 2 Type C, 2x USB 3.2 Gen 2 Type A, 1x RJ45, 1x combo entrée et sortie audio, 1x baie de stockage 2.5\" amovible, Bouton de navigation à 5 direction, encoche Kensington, 1x entrée HDMI, 1x sortie HDMI"
+}

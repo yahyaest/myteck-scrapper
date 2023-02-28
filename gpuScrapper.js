@@ -164,11 +164,11 @@ const componentPageScrapper = async (url) => {
 
           // create description object
           const descriptionObject = {};
-          descriptionObject.name = gpuName;
-          descriptionObject.brand = gpuBrand;
-          descriptionObject.type = gpuMemoryType;
-          descriptionObject.capacity = gpuCapacity;
-          descriptionObject.connectors = gpuConnectors;
+          descriptionObject.name = gpuName.replace("'", '`').replace('\"', '');
+          descriptionObject.brand = gpuBrand.replace("'", '`').replace('\"', '');
+          descriptionObject.type = gpuMemoryType.replace("'", '`').replace('\"', '');
+          descriptionObject.capacity = gpuCapacity.replace("'", '`').replace('\"', '');
+          descriptionObject.connectors = gpuConnectors.replace("'", '`').replace('\"', '');
           // create gpu array
           const gpuObject = {};
           gpuObject.title = gpuTitle;

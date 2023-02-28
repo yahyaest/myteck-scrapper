@@ -186,14 +186,14 @@ const componentPageScrapper = async (url) => {
 
           // create description object
           const descriptionObject = {};
-          descriptionObject.name = cpuName;
-          descriptionObject.brand = cpuBrand;
-          descriptionObject.reference = cpuReference;
-          descriptionObject.frequency = cpuFrequency;
-          descriptionObject.speed = cpuMemorySpeed;
-          descriptionObject.memory = cpuCacheMemory;
-          descriptionObject.type = cpuMemoryType;
-          descriptionObject.cores = cpuCoresNumber;
+          descriptionObject.name = cpuName.replace("'", '`').replace('\"', '');
+          descriptionObject.brand = cpuBrand.replace("'", '`').replace('\"', '');
+          descriptionObject.reference = cpuReference.replace("'", '`').replace('\"', '');
+          descriptionObject.frequency = cpuFrequency.replace("'", '`').replace('\"', '');
+          descriptionObject.speed = cpuMemorySpeed.replace("'", '`').replace('\"', '');
+          descriptionObject.memory = cpuCacheMemory.replace("'", '`').replace('\"', '');
+          descriptionObject.type = cpuMemoryType.replace("'", '`').replace('\"', '');
+          descriptionObject.cores = cpuCoresNumber.replace("'", '`').replace('\"', '');
           // create cpu array
           const cpuObject = {};
           cpuObject.title = cpuTitle;

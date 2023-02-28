@@ -192,25 +192,25 @@ const componentPageScrapper = async (url) => {
 
           // create description object
           const descriptionObject = {};
-          descriptionObject.brand = pcGamerBrand;
-          descriptionObject.model = pcGamerModel;
-          descriptionObject.type = pcGamerType;
-          descriptionObject.os = pcGamerOs;
-          descriptionObject.processor = pcGamerCpu;
-          descriptionObject.processor_type = pcGamerCpuType;
-          descriptionObject.processor_reference = pcGamerCpuReference;
-          descriptionObject.processor_frequency = pcGamerCpuFrequency;
-          descriptionObject.processor_cache = pcGamerCacheMemory;
-          descriptionObject.gpu = pcGamerGpu;
-          descriptionObject.gpu_chipset = pcGamerGraphicChipset;
-          descriptionObject.memory = pcGamerRam;
-          descriptionObject.memory_type = pcGamerRamType;
-          descriptionObject.drive = pcGamerDrive;
-          descriptionObject.drive_type = pcGamerDriveType;
-          descriptionObject.screen = pcGamerIsScreen;
-          descriptionObject.touchscreen = pcGamerIsTouchScreen;
-          descriptionObject.screen_size = pcGamerScreenSize;
-          descriptionObject.connectors = pcGamerConnectors;
+          descriptionObject.brand = pcGamerBrand.replace("'", '`').replace('\"', '');
+          descriptionObject.model = pcGamerModel.replace("'", '`').replace('\"', '');
+          descriptionObject.type = pcGamerType.replace("'", '`').replace('\"', '');
+          descriptionObject.os = pcGamerOs.replace("'", '`').replace('\"', '');
+          descriptionObject.processor = pcGamerCpu.replace("'", '`').replace('\"', '');
+          descriptionObject.processor_type = pcGamerCpuType.replace("'", '`').replace('\"', '');
+          descriptionObject.processor_reference = pcGamerCpuReference.replace("'", '`').replace('\"', '');
+          descriptionObject.processor_frequency = pcGamerCpuFrequency.replace("'", '`').replace('\"', '');
+          descriptionObject.processor_cache = pcGamerCacheMemory.replace("'", '`').replace('\"', '');
+          descriptionObject.gpu = pcGamerGpu.replace("'", '`').replace('\"', '');
+          descriptionObject.gpu_chipset = pcGamerGraphicChipset.replace("'", '`').replace('\"', '');
+          descriptionObject.memory = pcGamerRam.replace("'", '`').replace('\"', '');
+          descriptionObject.memory_type = pcGamerRamType.replace("'", '`').replace('\"', '');
+          descriptionObject.drive = pcGamerDrive.replace("'", '`').replace('\"', '');
+          descriptionObject.drive_type = pcGamerDriveType.replace("'", '`').replace('\"', '');
+          descriptionObject.screen = pcGamerIsScreen.replace("'", '`').replace('\"', '');
+          descriptionObject.touchscreen = pcGamerIsTouchScreen.replace("'", '`').replace('\"', '');
+          descriptionObject.screen_size = pcGamerScreenSize.replace("'", '`').replace('\"', '');
+          descriptionObject.connectors = pcGamerConnectors.replace("'", '`').replace('\"', '');
           // create pcGamer array
           const pcGamerObject = {};
           pcGamerObject.title = pcGamerTitle;

@@ -157,12 +157,12 @@ const componentPageScrapper = async (url) => {
 
           // create description object
           const descriptionObject = {};
-          descriptionObject.brand = externalDriveBrand;
-          descriptionObject.state = externalDriveState;
-          descriptionObject.interface = externalDriveInterface;
-          descriptionObject.capacity = externalDriveCapacity;
-          descriptionObject.format = externalDriveFormat;
-          descriptionObject.type = externalDriveType;
+          descriptionObject.brand = externalDriveBrand.replace("'", '`').replace('\"', '');
+          descriptionObject.state = externalDriveState.replace("'", '`').replace('\"', '');
+          descriptionObject.interface = externalDriveInterface.replace("'", '`').replace('\"', '');
+          descriptionObject.capacity = externalDriveCapacity.replace("'", '`').replace('\"', '');
+          descriptionObject.format = externalDriveFormat.replace("'", '`').replace('\"', '');
+          descriptionObject.type = externalDriveType.replace("'", '`').replace('\"', '');
 
           // create externalDrive array
           const externalDriveObject = {};
